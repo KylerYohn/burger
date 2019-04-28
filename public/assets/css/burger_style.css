@@ -1,0 +1,105 @@
+li {
+    padding: 15px;
+    margin: 15px;
+    background: #ffffff;
+    list-style: none;
+  }
+  
+  ul {
+      list-style: none;
+  }
+  .Not-eaten{
+      width:500px;
+      float: left;
+      margin-left: 200px;
+
+  }
+  .Ate-list{
+      width:500px;
+      float: right;
+      margin-right: 200px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .center {
+      text-align: center;
+  }
+  
+  .right {
+      align-content: right;
+  }
+  
+  img {
+      align-content: center;
+  }
+  
+  h1 {
+      text-align: center;
+  }
+  
+  h2 {
+      text-align: center;
+  }
+  
+  .create-update-form {
+    padding: 25px;
+    margin: 25px;
+    margin-left: 500px;
+    background: #eceff1;
+    border: 1px black solid;
+    clear: both;
+    width:900px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  .btn-primary {
+      border-radius: 15px;
+  }
+  
+  html, body{
+      height: 100%;
+  }
+  body { 
+      background-color:	#F0E68C; 
+  }
+  
+ body{
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      color: black;
+  }
+  
+  .footer {
+      text-align: center;
+      text-shadow: 1px 1px #ffffff;
+  }
+  .wrapper {
+      height: 100%; 
+      width: 100%; 
+      }
+  
+    
+#enter{
+    text-align: center;
+}
+
+#ca{
+   margin-left: 360px;
+}
+
+#but{
+    margin-left: 400px;
+}
+
+#eat{
+    border-radius: 30px;
+    margin-left: 50px;
+
+}
